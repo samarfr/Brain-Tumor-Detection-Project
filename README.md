@@ -17,3 +17,8 @@
  the performance of deep learning models.
  ## Dataset
 The dataset used in this project is hosted on Kaggle and can be accessed here: [Kaggle Dataset Link](https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri)
+## Citation
+
+If you use this code, please cite it using the following DOI:
+
+[![DOI](https://zenodo.org/badge/DOI/your-doi-number.svg)](https://doi.org/10.5281/zenodo.13975949)
